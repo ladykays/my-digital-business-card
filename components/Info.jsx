@@ -5,9 +5,9 @@ export default function Info() {
   return (
     <header>
       <img
-        src="https://dummyimage.com/317/ffffff/000000"
+        src="../src/assets/images/profile-pic.jpeg"
         alt="Ndidi"
-        className="header-photo"
+        className="header--photo"
       />
       <h1 className="header--name">Ndidiamaka Siokwu</h1>
       <p className="header--role">Frontend Web Developer</p>
