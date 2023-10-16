@@ -1,6 +1,34 @@
-# React + Vite
+# My Digital Business Card
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is my digital business card which was created using React.
+
+ ## Technologies
+  * HTML
+  * CSS 
+  * JSX  
+  * NPM  
+  * React
+
+ ## Screenshot
+ ![Screenshot](./src/assets/images/screenshot.png)
+
+  ## Deployed Site
+  https://playful-cupcake-3e6525.netlify.app
+
+  ## License
+  This project is licensed under the MIT License. [View licence](https://opensource.org/licenses/MIT)
+
+  ## Questions
+  Do you have any questions? Would you like to collaborate on a project?
+  * Checkout my [github](https://github.com/ladykays).
+  * Send me an [email](mailto:ladykerrion@yahoo.com).
+
+
+## React + Vite
+
+I have used the Vite setup to get React to work on Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
