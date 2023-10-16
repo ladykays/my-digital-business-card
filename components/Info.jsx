@@ -1,3 +1,4 @@
+import ProfilePic from "../src/assets/images/profile-pic.jpeg"
 import MailIcon from "../src/assets/images/mail.png";
 import LinkedinIcon from "../src/assets/images/linkedin.png";
 
@@ -5,7 +6,7 @@ export default function Info() {
   return (
     <header>
       <img
-        src="../src/assets/images/profile-pic.jpeg"
+        src={ProfilePic}
         alt="Ndidi"
         className="header--photo"
       />
