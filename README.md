@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This is my digital business card which was created using React.
+Presenting my digital business card, meticulously crafted with React and inspired by a sleek Figma design.
 
  ## Technologies
   * HTML
