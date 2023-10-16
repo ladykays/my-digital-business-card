@@ -13,14 +13,18 @@ export default function Info() {
       <p className="header--role">Frontend Web Developer</p>
       <p className="header--website">kre8tive.co.uk</p>
       <section className="header--buttons">
-        <button className="email_button">
-          <img src={MailIcon} />
-          Email
-        </button>
-        <button className="linkedin_button">
-          <img src={LinkedinIcon} />
-          Linkedin
-        </button>
+        <a href="mailto:ladykerrion@sky.com">
+          <button className="email_button">
+            <img src={MailIcon} />
+            Email
+          </button>
+        </a>
+        <a href="https://www.linkedin.com/feed/">
+          <button className="linkedin_button">
+            <img src={LinkedinIcon} />
+            Linkedin
+          </button>
+        </a>
       </section>
     </header>
   );

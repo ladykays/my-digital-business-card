@@ -6,10 +6,26 @@ export default function Footer() {
   return (
     <footer className="footer_section">
       <ul className="socials">
-        <li><img src={TwitterIcon} /></li>
-        <li><img src={FacebookIcon} /></li>
-        <li><img src={InstagramIcon} /></li>
-        <li><img src={GithubIcon} /></li>
+        <a href="#">
+          <li>
+            <img src={TwitterIcon} />
+          </li>
+        </a>
+        <a href="#">
+          <li>
+            <img src={FacebookIcon} />
+          </li>
+        </a>
+        <a href="#">
+          <li>
+            <img src={InstagramIcon} />
+          </li>
+        </a>
+        <a href="https://github.com/ladykays">
+          <li>
+            <img src={GithubIcon} />
+          </li>
+        </a>
       </ul>
     </footer>
   )
