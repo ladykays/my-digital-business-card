@@ -21,7 +21,7 @@ export default function Footer() {
             <img src={InstagramIcon} />
           </li>
         </a>
-        <a href="https://github.com/ladykays">
+        <a href="https://github.com/ladykays" target="_blank" rel="noreferrer">
           <li>
             <img src={GithubIcon} />
           </li>

@@ -11,7 +11,9 @@ export default function Info() {
       />
       <h1 className="header--name">Ndidiamaka Siokwu</h1>
       <p className="header--role">Frontend Web Developer</p>
-      <p className="header--website">kre8tive.co.uk</p>
+      <a href="https://kre8tivedev.co.uk" target="_blank" rel="noreferrer">
+        <p className="header--website">kre8tivedev.co.uk</p>
+      </a>
       <section className="header--buttons">
         <a href="mailto:ladykerrion@sky.com">
           <button className="email_button">
@@ -19,7 +21,7 @@ export default function Info() {
             Email
           </button>
         </a>
-        <a href="https://www.linkedin.com/feed/">
+        <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer">
           <button className="linkedin_button">
             <img src={LinkedinIcon} />
             Linkedin
